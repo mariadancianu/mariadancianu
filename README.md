@@ -1,13 +1,13 @@
-### Hi there! I'm Maria 👋
+## Hi there! I'm Maria 👋
 :earth_africa: Make the world a better place! :earth_africa:
 
 ![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
-## :woman_technologist: About me 
+### :woman_technologist: About me 
 I'm a **Data Scientist** based in Italy, in the beautiful city of Milan.  
 I have almost **4 years of Python development working experience** in the energy disaggregation field. 
 
-## :handshake: Connect with me 
+### :handshake: Connect with me 
 Do not hesitate to contact me at my email (mary_0094@hotmail.it) or on social media. 
 
 <div id="badges">
@@ -19,7 +19,7 @@ Do not hesitate to contact me at my email (mary_0094@hotmail.it) or on social me
   </a>
 </div>
 
-## :bulb: What I'm up to 
+### :bulb: What I'm up to 
 I'm currently working full time as a Data Scientist at [Voltaware](https://voltaware.com/).
 
 On the side I'm also:
@@ -27,6 +27,15 @@ On the side I'm also:
 - Experimenting with Raspberry Pi 4. 
 
 
+### :toolbox: Technologies & Skills
+- Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Cprofile, Snakeviz. 
+- Machine Learning (and Deep Learning): supervised and unsupervised models such as Decision Tree and Random Forest, Logistic Regression, Linear Regression, KMeans, Convolutional Neural Networks, Recurrent Neural Networks and others. 
+- Exploratory Data Analysis
+- Data Visualization
+- Data Cleaning 
+- Gitlab 
+- R 
+- SQL
 
 
 
@@ -36,7 +45,6 @@ On the side I'm also:
 
 # todo:
 
-## :toolbox: Technologies & Skills
 
 ## Blog posts 
 
