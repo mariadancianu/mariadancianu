@@ -4,7 +4,7 @@
 <p float="left">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="270" height="270"/>
   <img src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif" width="270" height="270"/>
-  <img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif" width="280" height="280"/>
+  <img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif" width="270" height="270"/>
 </p>
   
   
