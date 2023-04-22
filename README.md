@@ -1,11 +1,17 @@
 ## Hi there! I'm Maria 👋
 :earth_africa: Make the world a better place! :earth_africa:
 
-![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
-
+<p float="left">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="270" height="270"/>
+  <img src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif" width="270" height="270"/>
+  <img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif" width="280" height="280"/>
+</p>
+  
+  
 ### :woman_technologist: About me 
 I'm a **Data Scientist** based in Italy, in the beautiful city of Milan.  
-I have almost **4 years of Python development working experience** in the energy disaggregation field. 
+I have almost **4 years of Python development working experience** in the energy disaggregation field.   
+I have experience with **sensor-based time-series data** and **real time analytics**. 
 
 ### :handshake: Connect with me 
 Do not hesitate to contact me at my email (mary_0094@hotmail.it) or on social media. 
@@ -28,8 +34,10 @@ On the side I'm also:
 
 
 ### :toolbox: Technologies & Skills
-- Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Cprofile, Snakeviz. 
-- Machine Learning (and Deep Learning): supervised and unsupervised models such as Decision Tree and Random Forest, Logistic Regression, Linear Regression, KMeans, Convolutional Neural Networks, Recurrent Neural Networks and others. 
+- Python: 
+  - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Cprofile, Snakeviz and others.  
+- Machine Learning (and Deep Learning): 
+  - supervised and unsupervised models such as Decision Tree and Random Forest, Logistic Regression, Linear Regression, KMeans, Convolutional Neural Networks, Recurrent Neural Networks and others. 
 - Exploratory Data Analysis
 - Data Visualization
 - Data Cleaning 
@@ -40,6 +48,9 @@ On the side I'm also:
 
 
 <!--
+
+![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+
 
 **mariadancianu/mariadancianu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
