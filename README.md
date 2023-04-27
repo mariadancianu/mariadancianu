@@ -26,7 +26,7 @@ Do not hesitate to contact me at my email (mary_0094@hotmail.it) or on social me
 </div>
 
 ### :bulb: What I'm up to 
-I'm currently working full time as a Data Scientist at [Voltaware](https://voltaware.com/).
+I'm currently working full time as a Data Scientist.
 
 On the side I'm also:
 - Learning Web Scraping with Python. 
