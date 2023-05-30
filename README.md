@@ -13,6 +13,9 @@ I'm a **Data Scientist** based in Italy, in the beautiful city of Milan.
 I have almost **4 years of Python development working experience** in the energy disaggregation field.   
 I have experience with **sensor-based time-series data** and **real time analytics**. 
 
+On a personal note, I spend a lot of my free time hiking and I absolutely love animals.
+
+
 ### :handshake: Connect with me 
 Do not hesitate to contact me at my email (mary_0094@hotmail.it) or on social media. 
 
