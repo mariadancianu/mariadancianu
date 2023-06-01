@@ -34,6 +34,7 @@ I'm currently working full time as a Data Scientist.
 On the side I'm also:
 - Learning Web Scraping with Python. 
 - Experimenting with Raspberry Pi 4. 
+- Experimenting with Computer Vision. 
 
 
 ### :toolbox: Technologies & Skills
