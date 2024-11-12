@@ -11,7 +11,7 @@
 ### :woman_technologist: About me 
 I'm a **Data Scientist** based in Italy, in the beautiful city of Milan.  
 I have more than **5 years of Python development working experience** in the energy disaggregation field.   
-I have experience with **sensor-based time-series data** and **real time analytics**. 
+I have experience with **sensor-based time-series data** and **real time analytics**.      
 I'm currently learning and experimenting with some cool stuff (keep reading for more details). 
 
 Checkout my learning journey and published code solutions on [exercism](https://exercism.org/profiles/mary94). 
