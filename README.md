@@ -9,18 +9,23 @@
   
   
 ### :woman_technologist: About me 
-I'm a **Data Scientist** based in Italy, in the beautiful city of Milan.  
-I have more than **5 years of Python development working experience** in the energy disaggregation field.   
-I have experience with **sensor-based time-series data** and **real time analytics**.      
-I'm currently learning and experimenting with some cool stuff (keep reading for more details). 
+I'm a **Data Scientist** based in Italy, somewhere between the city of Milan and the beautiful italian Alps. 
 
-Checkout my learning journey and published code solutions on [exercism](https://exercism.org/profiles/mary94). 
+I have more than **5 years of Python development working experience** in the Energy & Utilities Data Analytics field.   
+I have experience with **sensor-based high frequency time-series data** and **Real Time Analytics**. 
 
-On a personal note, I spend a lot of my free time hiking and I absolutely love animals.
+In the past 5 years I cooperated with a team of brilliant Data Engineers and Data Scientists to design and deliver reliable, high-quality and cost-effective software solutions for complex business requirements, including **Live Analytics Applications**.
 
+I'm currently learning and experimenting with some cool stuff (keep reading for more details). <br />
+Also checkout my learning journey and published code solutions on [exercism](https://exercism.org/profiles/mary94). 
+
+On a personal note, I spend a lot of my free time hiking, hitting the gym, going to photography exhibitions and watching tennis tournaments. 
+
+
+I am currently working full time and **actively searching for a new position.**
 
 ### :handshake: Connect with me 
-Do not hesitate to contact me at my email (mary_0094@hotmail.it) or on social media. 
+Do not hesitate to contact me at my email (mariadanci1994@gmail.com) or on social media. 
 
 <div id="badges">
   <a href="https://it.linkedin.com/in/maria-dancianu-860613146">
@@ -32,27 +37,23 @@ Do not hesitate to contact me at my email (mary_0094@hotmail.it) or on social me
 </div>
 
 ### :bulb: What I'm up to 
-I'm currently working full time as a Data Scientist and I am actively searching for a new position. 
 
-I'm also:
+I'm currently:
 - Learning Web Scraping with Python. 
 - Experimenting with Raspberry Pi 4. 
 - Experimenting with Computer Vision.
 - Learning and practicing with Bash and Vim. 
 
 
-### :toolbox: Technologies & Skills
+### :toolbox: Skills
 - Python: 
-  - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Cprofile, Snakeviz, Memray and much more.  
-- Machine Learning (and Deep Learning): 
-  - supervised and unsupervised models such as Decision Tree and Random Forest, Logistic Regression, Linear Regression, KMeans, Convolutional Neural Networks, Recurrent Neural Networks and others. 
-- Exploratory Data Analysis
-- Data Visualization
-- Data Cleaning 
-- Gitlab
-- R 
-- SQL
-- Bash
+  - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Cprofile, Snakeviz, Memray, etc.  
+- Machine Learning: 
+  - Unsupervised Models - Agglomerative Clustering, KMeans Clustering;
+  - Supervised Models: for binary and multi-class classification and regression - Decision Tree, Random Forest, XGBRegressor.
+- Platforms & Technologies: GitLab, GitHub, Vim, Bash, Jupyter Notebook, Jupyter Hub, Pycharm.
+- Data Science: Exploratory Data Analysis, Data Visualization, Data Cleaning.
+
 
 
 
