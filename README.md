@@ -59,11 +59,29 @@ I am **actively searching for a new position** and I am currently upskilling thr
 
 ### :toolbox: Skills
 - Python: 
-  - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Cprofile, Snakeviz, Memray, etc.  
+  - Data Manipulation: Pandas, NumPy;
+  - Data Visualization: Matplotlib, Seaborn;
+  - Machine Learning: Scikit-Learn;
+  - Profiling & Optimization: CProfile, Snakeviz, Memray;
+  - Generative AI: LangChain, OpenAI, Hugging Face; 
+  - Web Scraping: BeautifulSoup, Selenium;
+
 - Machine Learning: 
-  - Unsupervised Models - Agglomerative Clustering, KMeans Clustering;
-  - Supervised Models: for binary and multi-class classification and regression - Decision Tree, Random Forest, XGBRegressor.
-- Platforms & Technologies: GitLab, GitHub, Vim, Bash, Jupyter Notebook, Jupyter Hub, Pycharm.
+  - Supervised Learning:
+    - Classification: Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Support Vector Machines (SVM);
+    - Regression: Linear Regression, Decision Tree Regressor, Random Forest Regressor;
+  - Unsupervised Learning:
+    - Clustering: KMeans, Agglomerative Clustering;
+  - Model Evaluation: Cross-validation, Grid Search, Random Search, Hyperparameter Tuning, ROC-AUC, Precision-Recall Curve;
+
+- Generative AI: RAG architecture; 
+
+- Platforms & Technologies: 
+  - Version control: GitLab, GitHub;
+  - Terminal/Command line: Bash;
+  - IDE & Editors: Vim, Jupyter Notebook, Jupyter Hub, Visual Studio Code, Cursor;
+  - Code Quality & Automation: pre-commit;
+- Collaboration & Project Management: Jira, Confluence;
 - Data Science: Exploratory Data Analysis, Data Visualization, Data Cleaning.
 
 
