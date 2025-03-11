@@ -1,6 +1,8 @@
 ## Hey there! Welcome to my Github profile! 🚀
 :earth_africa: Make the world a better place! :earth_africa:
 
+##
+
 ![alt text](https://github.com/mariadancianu/mariadancianu/blob/main/machine-learning-separator.jpg)
 
 
@@ -12,7 +14,8 @@
 </p>
 -->
 
-  
+##
+
   
 ### :woman_technologist: About me 
 
@@ -32,6 +35,8 @@ When I’m not immersed in data, I enjoy photography, hiking, and playing tennis
 
 I am **actively searching for a new position.**
 
+## 
+
 ### :handshake: Connect with me 
 Do not hesitate to contact me at my email (mariadanci1994@gmail.com) or on [Linkedin](https://it.linkedin.com/in/maria-dancianu-860613146). 
 
@@ -46,12 +51,15 @@ Do not hesitate to contact me at my email (mariadanci1994@gmail.com) or on [Link
 </div>
 -->
 
+##
+
 ### :bulb: What I'm up to 
 
 I'm currently:
 - Upskilling by taking some online courses and experimenting with the learned concepts. At the moment my focus is on cloud technologies (in particular AWS) and Generative AI. 
 - Learning and practicing with Bash and Vim. 
 
+##
 
 ### :toolbox: Skills
 - Python: 
