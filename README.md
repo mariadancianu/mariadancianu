@@ -3,7 +3,7 @@
 
 ##
 
-![alt text](https://github.com/mariadancianu/mariadancianu/blob/main/machine-learning-separator.jpg)
+![alt text](https://github.com/mariadancianu/mariadancianu/blob/main/img.jpg)
 
 
 <!--
