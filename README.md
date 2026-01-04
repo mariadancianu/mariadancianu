@@ -55,7 +55,7 @@ Do not hesitate to contact me at my email (mariadanci1994@gmail.com) or on [Link
 
 ### :bulb: What I'm up to 
 
-Outside of work, I'm expanding my skills through online courses and hands-on projects, focusing on Cloud technologies and Generative AI, and planning to dive deeper into AWS Bedrock, LLM fine-tuning and reinforcement learning, and Docker.
+Outside of work, I'm expanding my skills through online courses and hands-on projects, focusing on Cloud technologies and Generative AI, and planning to dive deeper into AWS Bedrock, LLM fine-tuning, reinforcement learning, and Docker.
 
 ##
 
