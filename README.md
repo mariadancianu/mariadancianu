@@ -3,7 +3,11 @@
 
 ##
 
+<!--
 ![alt text](https://github.com/mariadancianu/mariadancianu/blob/main/img.jpg)
+-->
+
+<img src="https://github.com/mariadancianu/mariadancianu/blob/main/img.jpg" alt="alt text" width="1000"/>
 
 
 <!--
