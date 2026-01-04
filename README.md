@@ -67,13 +67,15 @@ Outside of work, I'm expanding my skills through online courses and hands-on pro
   - Profiling & Optimization: CProfile, Snakeviz, Memray
   - Web Scraping: BeautifulSoup, Selenium
   - Data Science Workflows: EDA, cleaning, visualization
+  - Environment Management: Conda, venv (environment isolation, dependency management)
 
 - Generative AI & LLMs:
-  - Production APIs: OpenAI, ElevenLabs integration
-  - Frameworks: LangChain, Hugging Face 
-  - Architectures: RAG pipelines, multi-agent systems
+  - Architectures: RAG pipelines, multi-agent systems, tool-calling LLM agents
+  - Prompt Engineering: System prompts, few-shot learning, chain-of-thought
   - Backend: FastAPI with async endpoints
-
+  - API Integration: Microsoft Graph (Outlook), Google Drive API, ElevenLabs API
+  - Frameworks: LangChain, Hugging Face
+    
 - Platforms & Technologies: 
   - Version control: GitLab, GitHub
   - Terminal/Command line: Bash
