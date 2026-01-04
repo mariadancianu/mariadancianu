@@ -19,18 +19,17 @@
   
 ### :woman_technologist: About me 
 
-I’m Maria, a **Data Scientist** living just outside Milan, Italy. Between 2019 and 2024, I’ve been working at [Voltaware](https://voltaware.com/), an innovative energy monitoring startup based in London. I’ve had the privilege of collaborating with an incredible team and tackling some really interesting and complex Data Analytics challenges.
+I’m Maria, a **Data Scientist** based near Milan 🇮🇹, with experience building customer-facing LLM systems in production.
 
-Curiosity drives me, and I’m always on the lookout for new things to learn and experiment with. Lately, I’ve been deepening my skills through online courses, with a strong focus on **AWS** and **Generative AI**.
+From 2019 to 2024, I worked at [Voltaware](https://voltaware.com/), a London-based energy monitoring startup, focusing on ML-driven energy disaggregation on high-frequency time-series energy data.
 
-In particular, I’m diving into **Large Language Models (LLMs)**, working on building and evaluating a **Retrieval-Augmented Generation (RAG)** system using **LangChain**, **Hugging Face**, and **Ragas**. This hands-on experience is helping me refine my understanding of LLM pipelines, retrieval mechanisms, and evaluation frameworks.
+Since early 2025 I have been working at [Ingo](https://ingo.it/), an AI‑based CX and omnichannel solutions company, developing production LLM assistants for voice, email, and chat, leveraging cutting-edge technologies like agentic AI workflows, with API integrations, CRM integrations (e.g. Zendesk), RAG, and more.
 
-At the same time, I’m exploring tools that enhance my productivity—right now, Vim and Bash are essential in my workflow, allowing me to work more efficiently and streamline my development process.
+Always curious and eager to experiment, I’m currently deepening my LLM post-training skills outside of work, focusing on fine-tuning and reinforcement learning via hands-on projects and courses.
 
 I’m especially excited by cutting-edge technologies and their potential to drive meaningful change. I’m drawn to fields where data is used as a force for good, leveraging technology to tackle real-world challenges and create a positive impact!
 
-When I’m not immersed in data, I enjoy photography, hiking, and playing tennis—passions that keep me balanced and inspired.
-
+When I’m not working, I spend time hiking, learning to swim, and taking Spanish lessons — activities that keep me inspired and balanced.
 
 ## 
 
@@ -52,8 +51,7 @@ Do not hesitate to contact me at my email (mariadanci1994@gmail.com) or on [Link
 
 ### :bulb: What I'm up to 
 
-
-I am **actively searching for a new position** and I am currently upskilling through online courses and hands-on experimentation. Currently, my focus is on Cloud technologies, particularly AWS, and Generative AI.
+Outside of work, I'm expanding my skills through online courses and hands-on projects, focusing on Cloud technologies and Generative AI, and planning to dive deeper into AWS Bedrock, LLM fine-tuning and reinforcement learning, and Docker.
 
 ##
 
