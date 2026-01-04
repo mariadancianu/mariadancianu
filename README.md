@@ -60,32 +60,28 @@ Outside of work, I'm expanding my skills through online courses and hands-on pro
 ##
 
 ### :toolbox: Skills
-- Python: 
-  - Data Manipulation: Pandas, NumPy;
-  - Data Visualization: Matplotlib, Seaborn;
-  - Machine Learning: Scikit-Learn;
-  - Profiling & Optimization: CProfile, Snakeviz, Memray;
-  - Generative AI: LangChain, OpenAI, Hugging Face; 
-  - Web Scraping: BeautifulSoup, Selenium;
+- Python & Data Science:
+  - Data Manipulation: Pandas, NumPy
+  - Data Visualization: Matplotlib, Seaborn
+  - Machine Learning: Scikit-Learn (supervised & unsupervised, model evaluation, hyperparameter tuning)
+  - Profiling & Optimization: CProfile, Snakeviz, Memray
+  - Web Scraping: BeautifulSoup, Selenium
+  - Data Science Workflows: EDA, cleaning, visualization
 
-- Machine Learning: 
-  - Supervised Learning:
-    - Classification: Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Support Vector Machines (SVM);
-    - Regression: Linear Regression, Decision Tree Regressor, Random Forest Regressor;
-  - Unsupervised Learning:
-    - Clustering: KMeans, Agglomerative Clustering;
-  - Model Evaluation: Cross-validation, Grid Search, Random Search, Hyperparameter Tuning, ROC-AUC, Precision-Recall Curve;
-
-- Generative AI: RAG architecture; 
+- Generative AI & LLMs:
+  - Production APIs: OpenAI, ElevenLabs integration
+  - Frameworks: LangChain, Hugging Face 
+  - Architectures: RAG pipelines, multi-agent systems
+  - Backend: FastAPI with async endpoints
 
 - Platforms & Technologies: 
-  - Version control: GitLab, GitHub;
-  - Terminal/Command line: Bash;
-  - IDE & Editors: Vim, Jupyter Notebook, Jupyter Hub, Visual Studio Code, Cursor;
-  - Code Quality & Automation: pre-commit;
+  - Version control: GitLab, GitHub
+  - Terminal/Command line: Bash
+  - IDE & Editors: Vim, Jupyter Notebook, Jupyter Hub, Visual Studio Code, Cursor
+  - Code Quality & Automation: pre-commit
+  - Databases: MySQL
+  - Deployment & monitoring: PM2
 - Collaboration & Project Management: Jira, Confluence;
-- Data Science: Exploratory Data Analysis, Data Visualization, Data Cleaning.
-
 
 
 
